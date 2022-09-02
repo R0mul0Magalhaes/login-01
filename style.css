@@ -37,12 +37,12 @@ input{
 
 input.email{
     cursor: pointer;
-    background-image: url(../html/assets/icone-usuario.png);
+    background-image: url(../login/assets/icone-usuario.png);
 }
 
 input.senha{
     cursor: pointer;
-    background-image: url(../html/assets/icone-cadeado.png);
+    background-image: url(../login/assets/icone-cadeado.png);
 }
 
 a.botao{
